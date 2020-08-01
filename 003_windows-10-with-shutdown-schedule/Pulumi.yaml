@@ -1,0 +1,3 @@
+name: 003_windows-10-with-shutdown-schedule
+runtime: nodejs
+description: Windows 10 Pro with Shutdown Schedule
