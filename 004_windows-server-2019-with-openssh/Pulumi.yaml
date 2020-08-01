@@ -1,0 +1,3 @@
+name: 004_windows-server-2019-with-openssh
+runtime: nodejs
+description: Windows Server 2019 with OpenSSH Server
