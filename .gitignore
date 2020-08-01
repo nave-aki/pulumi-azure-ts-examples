@@ -1,0 +1,8 @@
+.pulumi/
+.vscode/
+.vs/
+bin/
+node_modules/
+.node-version
+package-lock.json
+Pulumi.*.yaml
