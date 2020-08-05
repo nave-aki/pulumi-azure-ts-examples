@@ -1,0 +1,3 @@
+name: 005_bastion-host-with-ubuntu2004-ws2019
+runtime: nodejs
+description: Bastion Host with Ubuntu Server 20.04 LTS and Windows Server 2019
