@@ -1,0 +1,10 @@
+{
+    "name": "006_windows-server-2016-with-customdata",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^2.0.0",
+        "@pulumi/azure": "^3.0.0"
+    }
+}
